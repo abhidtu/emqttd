@@ -22,6 +22,3 @@
 [submodule "plugins/emqttd_plugin_redis"]
 	path = plugins/emqttd_plugin_redis
 	url = https://github.com/emqtt/emqttd_plugin_redis.git
-[submodule "plugins/emqttd_publish_client_activity"]
-        path = plugins/emqttd_publish_client_activity
-        url = https://github.com/abhidtu/emqttd_publish_client_activity.git
